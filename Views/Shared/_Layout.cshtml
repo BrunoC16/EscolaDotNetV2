@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EscolaDotNet</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/EscolaDotNet.styles.css" asp-append-version="true" />
+
+    <!-- Personalizados CSS -->
+    <link rel="stylesheet" href="~/css/login.css">
+
+
+</head>
+
+<body>
+    @* <div class="container-fluid"> *@
+
+    <!-- Todo o conteúdo-->
+
+    <!-- NAV BAR -->
+    <header>
+        <nav
+            class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 fixed-top">
+            <div class="container-fluid">
+
+                <a class="navbar-brand" href="#"><img src="img/logoEscola.png" width="105px"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 " id="menu">
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home"
+                                asp-action="Index">Cursos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="#" asp-action="#">Competências</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="#" asp-action="#">Alunos</a>
+                        </li>
+                        <div class="btn-group btn-sm">
+                            <button class="btn btn-warning btn-sm dropdown-toggle" type="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Login
+                            </button>
+                            <ul class="dropdown-menu">
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="#"
+                                        asp-action="#">Acesse</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="#"
+                                        asp-action="#">Gmail</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="#"
+                                        asp-action="#">Facebook</a>
+                                </li>
+                                <hr class="dropdown-divider">
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="#"
+                                        asp-action="#">Cadastra-se</a>
+                                </li>
+                            </ul>
+                        </div>
+                        
+
+                    </ul>
+
+
+
+                    <ul id="searchbar">
+                        <form class="d-flex me-4 " role="search">
+                            <input class="form-control me-0" type="search" placeholder="Buscar..." aria-label="Search">
+                            <button class="btn btn-outline-success btn-sm" type="submit"><img
+                                    src="img/componentes/search.svg"></button>
+                        </form>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+    <!-- NAVBAR -->
+
+    <!-- Corpo -->
+    <br><br><br> <br>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody() <!-- Página de conteúdo será inserida aqui-->
+        </main>
+    </div>
+    <!-- Corpo -->
+     
+    <!-- Rodapé -->
+
+    <br><br><br><br><br><br><br><br>
+
+    <footer class="border-top footer text-muted">
+
+
+        <section class="footer-site text-center">
+            <h1 class="display-6">Parceiros </h1>
+            @*
+            <hr>
+            <a href="https://www.sistemafibra.org.br/senai/"> <img src="imgsParceiros/senai.png" width="4%"></a>
+            <a href="https://aws.amazon.com/pt/"> <img src="imgsParceiros/aws.png" width="4%"></a>
+            <a href="https://www.df.gov.br/"> <img src="imgsParceiros/GDF.png" width="4%"></a>
+            <a href="https://microsoft.com/pt-br/"><img src="imgsParceiros/microsoft.png" width="4%"></a>
+            <a href="https://academy.oracle.com/en/oa-web-overview.html"><img src="imgsParceiros/oracle.png"
+            width="4%"></a>
+            <a href="https://www.cisco.com/"><img src="imgsParceiros/cisco.png" width="4%"></a>
+            <a href="https://www.huawei.com/br/"><img src="imgsParceiros/huawei.png" width="4%"></a>
+            <a href="https://chat.openai.com/chat"><img src="imgsParceiros/chatgpt.png" width="3%"></a>
+            <a href="https://www.mundosenai.com.br/"><img src="imgsParceiros/MundoSenai.png" width="4%"></a>
+            <a href="https://www.fap.df.gov.br/"><img src="imgsParceiros/fapdf.png" width="7%"></a>
+
+            <a href="https://learn.microsoft.com/pt-br/training/"> <img src="imgsParceiros/LearnMicrosoft.png"
+            width="4%"></a>
+            <a href="https://www.sistemafibra.org.br/senai/"> <img src="imgsParceiros/senai.png" width="4%"></a>
+            <hr> *@
+
+            <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                <div class="carousel-inner">
+
+                    <!-- SlideParceiros 1-->
+                    <div class="carousel-item active">
+                        <a href="https://www.sistemafibra.org.br/senai/"> <img src="imgsParceiros/1-senai.png"
+                                width="4%"></a>
+                        <a href="https://aws.amazon.com/pt/"> <img src="imgsParceiros/2-aws.png" width="3%"></a>
+                        <a href="https://www.df.gov.br/"> <img src="imgsParceiros/3-GDF.png" width="4%"></a>
+
+                        <a href="https://microsoft.com/pt-br/"><img src="imgsParceiros/4-microsoft.png" width="4%"></a>
+                        <a href="https://academy.oracle.com/en/oa-web-overview.html"><img
+                                src="imgsParceiros/5-oracle.png" width="4%"></a>
+                        <a href="https://www.cisco.com/"><img src="imgsParceiros/6-cisco.png" width="4%"></a>
+                        <a href="https://www.huawei.com/br/"><img src="imgsParceiros/7-huawei.png" width="4%"></a>
+                    </div>
+                    <!-- SlideParceiros 2-->
+                    <div class="carousel-item">
+                        <a href="https://chat.openai.com/chat"><img src="imgsParceiros/8-chatgpt.png" width="2%"></a>
+                        <a href="https://www.mundosenai.com.br/"><img src="imgsParceiros/9-MundoSenai.png"
+                                width="3%"></a>
+                        <a href="https://learn.microsoft.com/pt-br/training/"> <img
+                                src="imgsParceiros/10-LearnMicrosoft.png" width="4%"></a>
+
+                        <a href="https://www.intelbras.com/pt-br/"> <img src="imgsParceiros/11-intelbras.png"
+                                width="3%"></a>
+                        <a href="https://www.fap.df.gov.br/"><img src="imgsParceiros/12-fapdf.png" width="3%"></a>
+                        <a href="https://classroom.google.com/"><img src="imgsParceiros/13-classroom.png"
+                                width="3%"></a>
+                    </div>
+                    <!-- SlideParceiros 3-->
+                    <div class="carousel-item">
+                        <a href="https://senaiplay.senai.br/"> <img src="imgsParceiros/14-senaiplay.png" width="2%"></a>
+                        <a href="https://iam.senai.br/"> <img src="imgsParceiros/15-estantevirtual.png" width="2%"></a>
+                        <a href="https://www.ibm.com/training/"><img src="imgsParceiros/16-IBM.png" width="3%"></a>
+
+                        <a href="https://www.ev.org.br/"><img src="imgsParceiros/17-FundacaoBradesco.png"
+                                width="5%"></a>
+                        <a href="https://github.com/"> <img src="imgsParceiros/18-github.png" width="2%"></a>
+                        <a href="https://git-scm.com/"> <img src="imgsParceiros/19-gitBash.png" width="2%"></a>
+                    </div>
+                    <!-- SlideParceiros 4-->
+
+
+                </div>
+                <button class="carousel-control-prev  btn btn-dark btn-sm" type="button"
+                    data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next  btn btn-dark btn-sm" type="button"
+                    data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+
+            </div>
+            <div>
+                <button type="button" class="btn btn-outline-success btn-sm">Perfil</button>
+                <button type="button" class="btn btn-outline-success btn-sm">Serviços</button>
+                <button type="button" class="btn btn-outline-success btn-sm">Contatos</button>
+            </div>
+            <div>
+                &copy; 2023 - Escola DotNet - <a asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+            </div>
+        </section>
+
+    </footer>
+    @* <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2023 - escoladotnet - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+
+
+    </footer> *@
+
+    <!-- Rodapé -->
+    @* </div> *@
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+@model ListaCursoViewModel
+
+<h1>Lista de Cursos</h1>
+
+<div class="row">
+    <h1>@ViewData["title"]</h1>
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Iniciar</th>
+                <th scope="col">Deletar</th>
+                <th scorpe="col">Atualizar</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Cursos)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nome</td>
+                    <td><button type="button" class="btn btn-outline-success">Iniciar</button></td>
+                    @* <td><button  type="button" onclick="/Curso/Delete/@item.id" class="btn btn-outline-danger">Apagar</button></td> *@
+                    @* <td><a href="/Curso/Delete/@item.Id" class="btn btn-danger btn-sm" tabindex="-1" role="button" aria-disabled="true">Apagar</a></td> *@
+                    <td><a asp-controller="Curso" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger">Apagar</a></td>
+                    <td> <button type="button" class="btn btn-outline-warning">Atualizar</button></td>
+                </tr>
+            }
+
+        </tbody>
+
+
+    </table>
+
+</div>

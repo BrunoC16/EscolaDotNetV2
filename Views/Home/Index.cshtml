@@ -1,0 +1,258 @@
+﻿<link rel="stylesheet" href="css/card.css">
+
+@{
+    //var curso = ViewBag.Curso; //Recurso novo Dynamic - Fracamente tipado.
+    //"as Curso" é o tipo
+    // as int
+    // as (tipagem de dados)
+    //var curso = ViewData["curso"] as Curso; //chave é curso
+    var curso = ViewBag.Curso; //chave é curso
+
+}
+
+<div class="container ">
+    <h1 class="text-center">Nossos Cursos</h1>
+    <div class="row">
+        <!--Cards-->
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/bigdata.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards--> 
+        <!--Cards-->
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/ComputaçãoEmNuvem.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards-->
+        <!--Cards-->
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/Csharp.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards-->
+        <!--Cards-->
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/HtmlCssJs.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards-->
+        <!--Cards-->
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/MachineLearning.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards-->
+        <!--Cards-->
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/PHP.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards-->
+        <!--Cards--> 
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/Python.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--Cards-->
+        <!--Cards--> 
+        <div class="col-sm-3 mb-3 mb-sm-0 mt-2">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h6>@curso?.Nome</h6>
+                </div>
+                <img class="card-img-top" src="img/TecnologiaDaInformação.png" alt="Card image cap">
+                <div class="card-body" id="card">
+                    <h6 class="card-title">@curso?.Titulo</h6>
+                    <span class="card-text">Carga Horária: @curso?.CargaHoraria</span>
+                </div>
+                <div class="card-footer text-muted">
+
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" class="btn btn-outline-danger btn-sm text-center" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdrop">
+                            Descrição
+                        </button>
+                        <button type="button" class="btn btn-outline-sucess btn-sm">Cadastra-se</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+<br>
+<br><br><br> <br><br><br><br><br>
+
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+    aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">@curso?.Titulo</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                @curso?.Descricao
+                <hr>
+                <p> @curso?.Conteudo </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal -->

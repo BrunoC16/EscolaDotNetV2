@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EscolaDotNet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EscolaDotNet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\css\\card.css",
+      "PackagePath": "staticwebassets\\css\\card.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\BigData.png",
+      "PackagePath": "staticwebassets\\img\\BigData.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\ComputaçãoEmNuvem.png",
+      "PackagePath": "staticwebassets\\img\\ComputaçãoEmNuvem.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\Csharp.png",
+      "PackagePath": "staticwebassets\\img\\Csharp.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\HtmlCssJs.png",
+      "PackagePath": "staticwebassets\\img\\HtmlCssJs.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\MachineLearning.png",
+      "PackagePath": "staticwebassets\\img\\MachineLearning.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\PHP.png",
+      "PackagePath": "staticwebassets\\img\\PHP.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\Python.png",
+      "PackagePath": "staticwebassets\\img\\Python.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\TecnologiaDaInformação.png",
+      "PackagePath": "staticwebassets\\img\\TecnologiaDaInformação.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\arrow-bar-right.svg",
+      "PackagePath": "staticwebassets\\img\\componentes\\arrow-bar-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\cloud-arrow-up-fill.svg",
+      "PackagePath": "staticwebassets\\img\\componentes\\cloud-arrow-up-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\file-earmark-arrow-up-fill.svg",
+      "PackagePath": "staticwebassets\\img\\componentes\\file-earmark-arrow-up-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\left.png",
+      "PackagePath": "staticwebassets\\img\\componentes\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\right.png",
+      "PackagePath": "staticwebassets\\img\\componentes\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\search.svg",
+      "PackagePath": "staticwebassets\\img\\componentes\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\componentes\\trash.svg",
+      "PackagePath": "staticwebassets\\img\\componentes\\trash.svg"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\img\\logoEscola.png",
+      "PackagePath": "staticwebassets\\img\\logoEscola.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\1-senai.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\1-senai.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\10-LearnMicrosoft.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\10-LearnMicrosoft.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\11-intelbras.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\11-intelbras.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\12-fapdf.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\12-fapdf.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\13-Classroom.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\13-Classroom.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\14-senaiplay.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\14-senaiplay.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\15-estantevirtual.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\15-estantevirtual.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\16-IBM.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\16-IBM.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\17-FundacaoBradesco.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\17-FundacaoBradesco.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\18-github.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\18-github.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\19-GitBash.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\19-GitBash.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\1senai.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\1senai.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\2-aws.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\2-aws.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\2aws.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\2aws.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\3-GDF.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\3-GDF.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\4-Microsoft.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\4-Microsoft.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\5-oracle.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\5-oracle.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\6-cisco.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\6-cisco.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\7-huawei.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\7-huawei.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\8-chatgpt.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\8-chatgpt.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\9-MundoSenai.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\9-MundoSenai.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\Classroom.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\Classroom.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\GDF.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\GDF.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\LearnMicrosoft.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\LearnMicrosoft.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\Microsoft.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\Microsoft.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\MundoSenai.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\MundoSenai.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\Oracle1.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\Oracle1.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\chatgpt.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\chatgpt.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\cisco.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\cisco.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\cisco1.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\cisco1.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\estantevirtual.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\estantevirtual.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\fapdf.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\fapdf.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\huawei.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\huawei.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\intelbras.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\intelbras.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\oracle.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\oracle.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\senai1.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\senai1.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\imgsParceiros\\senaiplay.png",
+      "PackagePath": "staticwebassets\\imgsParceiros\\senaiplay.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\2EscolaDotNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EscolaDotNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EscolaDotNet.props",
+      "PackagePath": "build\\EscolaDotNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EscolaDotNet.props",
+      "PackagePath": "buildMultiTargeting\\EscolaDotNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EscolaDotNet.props",
+      "PackagePath": "buildTransitive\\EscolaDotNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

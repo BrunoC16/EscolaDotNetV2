@@ -1,0 +1,165 @@
+@model CreateCursoViewModel
+
+<!--Vou tipar aqui-->
+ 
+
+
+@* <h5>  Cadastramento de novos cursos  </h5> *@
+<!-- Vamos criar um a linha-->
+
+<div class="row">
+ 
+  <!--Dentro da linha vamos criar uma coluna-->
+
+  <div class="col">
+
+    <h1 class="text-center">@ViewData["title"]</h1>
+    <form method="post">
+      <!--Nome-->
+      <div class="mb-3">
+        <label asp-for="Nome" class="form-label">Nome</label>
+        <input asp-for="Nome" type="text" class="form-control">
+      </div>
+
+      <!--Título-->
+      <div class="mb-3">
+        <label asp-for="Titulo" class="form-label">Título</label>
+        <input asp-for="Titulo" type="text" class="form-control">
+      </div>
+
+      <!--Descrição-->
+
+      <div class="mb-3">
+        <label asp-for="Descricao" class="form-label">Descrição</label>
+        <input asp-for="Descricao" type="text" class="form-control">
+      </div>
+
+      <!--Perfil-->
+      <div class="mb-3">
+        <label asp-for="Perfil" class="form-label">Perfil</label>
+        <input asp-for="Perfil" type="text" class="form-control">
+      </div>
+
+      <!--Requisito-->
+      <div class="mb-3">
+        <label asp-for="PreRequisitos" class="form-label">Requisito</label>
+        <input asp-for="PreRequisitos" type="text" class="form-control">
+      </div>
+
+      <!--Conteúdos-->
+      <div class="mb-3">
+        <label asp-for="Conteudo" class="form-label">Conteúdos</label>
+        <input asp-for="Conteudo" type="text" class="form-control">
+      </div>
+
+
+      <!--Recursos-->
+
+      <div class="mb-3">
+        <label asp-for="Recursos" class="form-label">Recursos</label>
+        <input asp-for="Recursos" type="text" class="form-control">
+      </div>
+
+      <!--CH-->
+
+      <div class="mb-3">
+        <label asp-for="CargaHoraria" class="form-label">Carga Horária</label>
+        <input asp-for="CargaHoraria" type="number" class="form-control">
+      </div>
+
+      <!--Prazo-->
+
+      <div class="mb-3">
+        <label asp-for="PrazoMeses" class="form-label">Prazo</label>
+        <input asp-for="PrazoMeses" type="number" class="form-control">
+      </div>
+
+
+      <button type="submit" class="btn btn-primary"><img src="img/componentes/cloud-arrow-up-fill.svg"></button>
+    </form>
+  </div>
+
+
+
+</div>
+
+@* <link rel="stylesheet" href="~/css/form.css">
+
+
+<div class="container login-container">
+            <div class="row">
+                 
+                <div class="col-md-4 login-form-2">
+                      <form>
+                    <h3>@ViewData["title"]</h3>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder=" Email..." value="" />
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" placeholder=" Senha..." value="" />
+                        </div>
+                       <label class="form-check-label" for="exampleCheck1">Lembrar de mim</label>
+                        <div class="form-group text-center">
+                            <input type="submit" class="btnSubmit" value="Login" />
+                        </div>
+                         
+                    </form>
+                </div>
+            </div>
+        </div>
+<br><br><br><br><br> *@
+
+@* <div class="row">
+
+    <div class="col-9">
+        <h1 class="text-center">@ViewData["title"]</h1>
+        <form method="post">
+            <!--  Nome  -->
+            <div class="sm-3">
+            <label asp-for="Nome" class="form-label">Nome</label>
+            <input asp-for"Nome" type="Text" class="form-control">
+            </div>  <!-- Titulo   -->            
+            <div class="sm-3">
+            <label asp-for="Titulo" class="form-label">Titulo</label>
+            <input asp-for"Titulo" type="Text" class="form-control">
+            </div>
+            <!--  Descrição  -->            
+            <div class="sm-3">
+            <label asp-for="Descricao" class="form-label">Descrição</label>
+            <input asp-for"Descricao" type="Text" class="form-control">
+            </div>
+            <!--  Perfil  -->            
+            <div class="sm-3">
+            <label asp-for="Perfil" class="form-label">Perfil</label>
+            <input asp-for"Perfil" type="Text" class="form-control">
+            </div>
+            <!--  Requisitos  -->
+            <div class="sm-3">
+            <label asp-for="PreRequisitos" class="form-label">Requisitos</label>
+            <input asp-for"PreRequisitos" type="Text" class="form-control">
+            </div>
+            <!--  Conteúdo  -->
+            <div class="sm-3">
+            <label asp-for="Conteudo" class="form-label">Conteúdo</label>
+            <input asp-for"Conteudo" type="Text" class="form-control">
+            </div>
+            <!--   Recursos  -->            
+            <div class="sm-3">
+            <label asp-for="Recursos" class="form-label">Recursos</label>
+            <input asp-for"Recursos" type="Text" class="form-control">
+            </div>
+            <!--  Carga horária  -->            
+            <div class="sm-3">
+            <label asp-for="CargaHoraria" class="form-label">Carga horária</label>
+            <input asp-for"CargaHoraria" type="number" class="form-control">
+            </div>
+            <!--  Prazo   -->            
+            <div class="sm-3">
+            <label asp-for="PrazoMeses" class="form-label">Prazo</label>
+            <input asp-for"PrazoMeses" type="number" class="form-control">
+            </div>
+
+            <button type="submit" class="btn btn-sucess">Enviar</button>
+        </form>
+    </div>
+</div> *@
